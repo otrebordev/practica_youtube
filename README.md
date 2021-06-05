@@ -3,12 +3,14 @@ Espero que les guste
 
 # Captures
 ![image](https://user-images.githubusercontent.com/83046233/116802251-6f7faf80-aadf-11eb-981b-b4d99a0cd7d4.png)
+
 ![image](https://user-images.githubusercontent.com/83046233/116802280-8de5ab00-aadf-11eb-9261-fc4f4b62b7c9.png)
+
 ![image](https://user-images.githubusercontent.com/83046233/116802288-a655c580-aadf-11eb-8f3a-cc2252da0959.png)
 
 
 # Código 
-HTML
+```HTML
 <!DOCTYPE html>
 <html lang="en">
 
@@ -54,8 +56,8 @@ HTML
 </body>
 
 </html>
-
-CSS
+```
+```CSS
 
 /* ==================
     * IMPORTS *
@@ -180,3 +182,4 @@ body {
     font-size: 10px;
     font-weight: bold;
 }
+```
